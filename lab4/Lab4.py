@@ -33,20 +33,20 @@ class human:
     def growHeight(self):
         self.height = self.height + 2
 
-kayan = human()
-print(kayan.name, kayan.age, kayan.height )
-jacky = human()
-kayan.name = "Kayan"
-kayan.age = 18
-kayan.height = 180
-kayan.färg = "gul"
+k = human()
+print(k.name, k.age, k.height )
+j = human()
+k.name = "K"
+k.age = 18
+k.height = 180
+k.färg = "gul"
 
-jacky.name = "bajs"
-jacky.age=60
-jacky.height = 120
+j.name = "bajs"
+j.age=60
+j.height = 120
 
-print(kayan.name, kayan.age, kayan.height )
-print(jacky.name, jacky.age, jacky.height )
+print(k.name, k.age, k.height )
+print(j.name, j.age, j.height )
 
 
 a = 0
