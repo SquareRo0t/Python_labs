@@ -24,7 +24,7 @@ pk.y=2.0    #uppdatera attributen
 print('x is', p.x, 'and y is', p.y)
 print('x is', pk.x, 'and y is', pk.y)
 
-# Exempel Kayan
+# Exempel K
 class human:
     name = "none"
     age = 0
